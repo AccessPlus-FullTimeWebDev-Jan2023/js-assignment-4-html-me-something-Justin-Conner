@@ -10,7 +10,7 @@
   }
   center{
     font-size: 10em;
-    color: white;
+    color: red;
     font-family: courier;
     text-align:  center;
     padding: 10px 0;
@@ -23,7 +23,7 @@
   }
   p {
     font-size: 1em;
-    color: white;
+    color: green;
     font-family: courier;
     text-align:  center;
   }
